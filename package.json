@@ -1,0 +1,27 @@
+{
+  "name": "learn-web",
+  "version": "1.0.0",
+  "description": "+ sequelize\r + express\r + ejs\r + pg\r + bcrypt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alif-Dzarif/learn-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alif-Dzarif/learn-web/issues"
+  },
+  "homepage": "https://github.com/Alif-Dzarif/learn-web#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "pg": "^8.11.1",
+    "sequelize": "^6.32.1"
+  }
+}
