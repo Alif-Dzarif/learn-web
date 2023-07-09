@@ -1,4 +1,4 @@
-# learn How to create web using
+# Learn How to create interactive web using
 + sequelize
 + express
 + ejs
